@@ -19,7 +19,7 @@ async function displayQuote() {
 
   // Update text
   const div = document.getElementById('quote');
-  div.textContent = quote.text;
+  div.textContent = quote.text; //textCont is part of the 'Node' (Cf. node software) class in the DOM API
 }
 
 displayQuote();
