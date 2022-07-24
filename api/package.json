@@ -1,8 +1,5 @@
 {
   "name": "swag-demo-api",
   "version": "1.0.0",
-  "description": "swag demo API",
-  "dependencies": {
-    "node-fetch": "^3.2.9"
-  }
+  "description": "swag demo API"
 }
