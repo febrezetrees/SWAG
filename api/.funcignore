@@ -1,0 +1,4 @@
+## Files that should be ignored from Azure Deployment. In here you should be able to specify files you do not want packaged.
+
+# EasyAuth Debugging file
+local.funcdebugging.json
