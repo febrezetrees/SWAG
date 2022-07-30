@@ -19,3 +19,5 @@ TL;DR:
 For the longer version with the deployment instructions, [see this full length article](https://dev.to/sinedied/the-easy-way-to-serverless-web-apps-and-apis-with-azure-swag-2heb).
 
 You can also take a look at [the official docs](https://docs.microsoft.com/azure/static-web-apps?WT.mc_id=javascript-0000-yolasors).
+
+test here
